@@ -1,0 +1,14 @@
+layout_spectrum: 0.06922354
+color:
+  saturation: 0.07060105
+  lightness: 0.5897182
+  brandStrength: 0.5573492
+  brandColors:
+    - '#FFFFFF'
+    - '#211E1F'
+    - '#D0CFCF'
+    - '#545353'
+    - '#777677'
+  rhythmicContrast: 0.4142826
+typography_spectrum: 0.0638559
+name: mahamdan
